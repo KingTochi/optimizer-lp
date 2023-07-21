@@ -16,7 +16,7 @@ export default function HomePage() {
           rel="noreferrer"
           className="border border-gray-700 rounded-lg py-2 px-4 text-gray-400 text-sm mb-5 transition duration-300 ease-in-out"
         >
-          Generated total ARR of over{" "}
+          Generated a total ARR of over{" "}
           <span className="text-[#4900E5]">$15,000,000</span>
         </a>
         <h1 className="mx-auto max-w-4xl font-display text-5xl font-bold tracking-normal text-gray-300 sm:text-7xl">
