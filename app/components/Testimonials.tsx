@@ -53,7 +53,8 @@ function Testimonials() {
                         </div>
                       </div>
                       <div className="overflow-hidden rounded-full bg-slate-50">
-                        <img
+                        <Image
+                        src='/pic_1.png'
                           alt="picture of the testimonial author"
                           loading="lazy"
                           width="56"
@@ -93,7 +94,8 @@ function Testimonials() {
                         </div>
                       </div>
                       <div className="overflow-hidden rounded-full bg-slate-50">
-                        <img
+                        <Image
+                        src='/pic_2.png'
                           alt="picture of the testimonial author"
                           loading="lazy"
                           width="56"
@@ -137,7 +139,8 @@ function Testimonials() {
                         </div>
                       </div>
                       <div className="overflow-hidden rounded-full bg-slate-50">
-                        <img
+                        <Image
+                        src='/pic_3.png'
                           alt="picture of the testimonial author"
                           loading="lazy"
                           width="56"
@@ -177,7 +180,8 @@ function Testimonials() {
                         </div>
                       </div>
                       <div className="overflow-hidden rounded-full bg-slate-50">
-                        <img
+                        <Image
+                        src='/pic_4.png'
                           alt="picture of the testimonial author"
                           loading="lazy"
                           width="56"
@@ -222,7 +226,8 @@ function Testimonials() {
                         </div>
                       </div>
                       <div className="overflow-hidden rounded-full bg-slate-50">
-                        <img
+                        <Image
+                        src='/pic_5.png'
                           alt="picture of the testimonial author"
                           loading="lazy"
                           width="56"
@@ -259,7 +264,8 @@ function Testimonials() {
                         </div>
                       </div>
                       <div className="overflow-hidden rounded-full bg-slate-50">
-                        <img
+                        <Image
+                        src='/pic_6.png'
                           alt="picture of the testimonial author"
                           loading="lazy"
                           width="56"
