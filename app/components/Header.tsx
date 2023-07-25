@@ -13,7 +13,7 @@ export default function Header() {
           height={24}
         />
         <h1 className="sm:text-xl text-xl ml-2 tracking-tight">
-          leadgensage
+          optimizr
         </h1>
       </Link>
       <a
