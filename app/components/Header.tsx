@@ -23,7 +23,7 @@ export default function Header() {
         rel="noopener noreferrer"
       >
         {/* <Github /> */}
-        <p>Join Discord</p>
+        <p>Coming Soon</p>
       </a>
     </header>
   );

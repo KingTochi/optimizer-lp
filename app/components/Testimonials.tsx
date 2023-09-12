@@ -16,10 +16,10 @@ function Testimonials() {
           <p className="mx-auto mt-6 max-w-xl text-lg sm:text-gray-400  text-gray-500 leading-7">
             See what our{" "}
             <a
-              href="https://twitter.com/nutlope/status/1651994920654196738"
-              className="underline underline-offset-2 hover:text-gray-200  transition"
+              href="https://discord.gg"
+              className="underline underline-offset-2 hover:text-[#4900E5] text-[#671EFF] transition"
             >
-              1.5 million users
+              200,000 users
             </a>{" "}
             are saying about the product.
           </p>
@@ -54,7 +54,7 @@ function Testimonials() {
                       </div>
                       <div className="overflow-hidden rounded-full bg-slate-50">
                         <Image
-                        src='/pic_1.png'
+                          src="/pic_1.png"
                           alt="picture of the testimonial author"
                           loading="lazy"
                           width="56"
@@ -95,7 +95,7 @@ function Testimonials() {
                       </div>
                       <div className="overflow-hidden rounded-full bg-slate-50">
                         <Image
-                        src='/pic_2.png'
+                          src="/pic_2.png"
                           alt="picture of the testimonial author"
                           loading="lazy"
                           width="56"
@@ -140,7 +140,7 @@ function Testimonials() {
                       </div>
                       <div className="overflow-hidden rounded-full bg-slate-50">
                         <Image
-                        src='/pic_3.png'
+                          src="/pic_3.png"
                           alt="picture of the testimonial author"
                           loading="lazy"
                           width="56"
@@ -181,7 +181,7 @@ function Testimonials() {
                       </div>
                       <div className="overflow-hidden rounded-full bg-slate-50">
                         <Image
-                        src='/pic_4.png'
+                          src="/pic_4.png"
                           alt="picture of the testimonial author"
                           loading="lazy"
                           width="56"
@@ -227,7 +227,7 @@ function Testimonials() {
                       </div>
                       <div className="overflow-hidden rounded-full bg-slate-50">
                         <Image
-                        src='/pic_5.png'
+                          src="/pic_5.png"
                           alt="picture of the testimonial author"
                           loading="lazy"
                           width="56"
@@ -265,7 +265,7 @@ function Testimonials() {
                       </div>
                       <div className="overflow-hidden rounded-full bg-slate-50">
                         <Image
-                        src='/pic_6.png'
+                          src="/pic_6.png"
                           alt="picture of the testimonial author"
                           loading="lazy"
                           width="56"
