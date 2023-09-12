@@ -38,7 +38,7 @@ export default function HomePage() {
           className="bg-[#4900E5] rounded-xl text-white font-medium px-4 py-3 sm:mt-10 mt-8 hover:bg-[#671EFF] transition"
           href="https://www.discord.gg"
         >
-          Coming Soon...
+          Coming Soon
         </Link>
         {/* <CountDown /> */}
         <Platforms />
